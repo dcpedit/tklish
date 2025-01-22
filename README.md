@@ -21,7 +21,7 @@ The o80 PCB should work with any case that does require the PCB to be mounted (P
 
 ![TKLish 40s case](https://i.imgur.com/5NLhVg1.jpeg)
 
-I've designed a stacked acrylic case that works with the 40% PCBs.  You can look at the build guide in the [cases](./cases) directory.
+I've designed a stacked acrylic case that works with the 40% PCBs.  You can look at the build guide in the [case](./case/README.md) directory.
 
 ## Firmware
 
