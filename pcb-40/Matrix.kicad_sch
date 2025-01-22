@@ -1151,10 +1151,10 @@
 		(uuid "086d104d-a56a-442b-80d5-ca00a035f6cb")
 	)
 	(junction
-		(at 448.31 110.49)
+		(at 448.31 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "09ecace7-681d-4104-8bc0-404e3aa7ebdf")
+		(uuid "0e31de3f-fdf1-4f56-8774-5c329bd94d59")
 	)
 	(junction
 		(at 505.46 64.77)
@@ -1841,12 +1841,6 @@
 		(uuid "df48fd4d-2546-4013-ac21-3b06cadc9419")
 	)
 	(junction
-		(at 420.37 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "df8f5faf-22a6-49fa-b0b2-19bcd1c5f159")
-	)
-	(junction
 		(at 166.37 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1893,6 +1887,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef04eda5-d9b1-4a67-89c4-73562caa6627")
+	)
+	(junction
+		(at 453.39 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f45af1d7-64c2-4537-bc89-748402fa1be1")
 	)
 	(junction
 		(at 392.43 182.88)
@@ -2202,6 +2202,16 @@
 	)
 	(wire
 		(pts
+			(xy 448.31 132.08) (xy 448.31 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13b7cb51-bb0c-41ed-aa9a-57ceaaa289bc")
+	)
+	(wire
+		(pts
 			(xy 420.37 64.77) (xy 420.37 67.31)
 		)
 		(stroke
@@ -2269,16 +2279,6 @@
 			(type default)
 		)
 		(uuid "1e7f9505-5b6d-4665-be55-7bc979b1c0e6")
-	)
-	(wire
-		(pts
-			(xy 459.74 102.87) (xy 453.39 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1eb9c8c0-5139-48d7-9923-ce89669aefa5")
 	)
 	(wire
 		(pts
@@ -2429,6 +2429,16 @@
 			(type default)
 		)
 		(uuid "295e15ce-40b7-48bb-a9c7-e7d08ff4b4e8")
+	)
+	(wire
+		(pts
+			(xy 448.31 132.08) (xy 454.66 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cdf79c7-944f-4e51-9a48-32eecd30d2f9")
 	)
 	(wire
 		(pts
@@ -2742,7 +2752,7 @@
 	)
 	(wire
 		(pts
-			(xy 448.31 129.54) (xy 448.31 134.62)
+			(xy 448.31 129.54) (xy 448.31 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2912,6 +2922,16 @@
 	)
 	(wire
 		(pts
+			(xy 459.74 124.46) (xy 453.39 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57f79283-2b4f-46ad-b9c4-59da153ed461")
+	)
+	(wire
+		(pts
 			(xy 138.43 172.72) (xy 138.43 175.26)
 		)
 		(stroke
@@ -2959,16 +2979,6 @@
 			(type default)
 		)
 		(uuid "5ae40ef7-75c1-4e34-97d5-d25b35319efe")
-	)
-	(wire
-		(pts
-			(xy 431.8 127) (xy 431.8 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b54aa4c-4b3c-4bfc-812c-1272d0227ad6")
 	)
 	(wire
 		(pts
@@ -3322,16 +3332,6 @@
 	)
 	(wire
 		(pts
-			(xy 448.31 107.95) (xy 448.31 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c9d48f8-465f-4733-a9fd-d00e4b3c767b")
-	)
-	(wire
-		(pts
 			(xy 109.22 64.77) (xy 109.22 69.85)
 		)
 		(stroke
@@ -3502,6 +3502,16 @@
 	)
 	(wire
 		(pts
+			(xy 459.74 127) (xy 459.74 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b63bf62-d27e-4fb0-9e38-417153a78056")
+	)
+	(wire
+		(pts
 			(xy 76.2 180.34) (xy 81.28 180.34)
 		)
 		(stroke
@@ -3652,7 +3662,7 @@
 	)
 	(wire
 		(pts
-			(xy 448.31 110.49) (xy 448.31 113.03)
+			(xy 448.31 107.95) (xy 448.31 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3789,16 +3799,6 @@
 			(type default)
 		)
 		(uuid "a53e750c-baa8-4d0f-997c-020de57771af")
-	)
-	(wire
-		(pts
-			(xy 448.31 110.49) (xy 454.66 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8590823-bdc4-4ad5-8896-e87858c58e93")
 	)
 	(wire
 		(pts
@@ -4002,16 +4002,6 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 124.46) (xy 425.45 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c08403f0-96bc-4d22-8d6f-b1036af6edae")
-	)
-	(wire
-		(pts
 			(xy 199.39 48.26) (xy 199.39 59.69)
 		)
 		(stroke
@@ -4092,16 +4082,6 @@
 	)
 	(wire
 		(pts
-			(xy 420.37 132.08) (xy 426.72 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7df6c3c-82b6-431b-8841-b2c9fc798361")
-	)
-	(wire
-		(pts
 			(xy 459.74 34.29) (xy 459.74 64.77)
 		)
 		(stroke
@@ -4109,16 +4089,6 @@
 			(type default)
 		)
 		(uuid "c7f973fd-7733-49c2-b298-f84dcc971f06")
-	)
-	(wire
-		(pts
-			(xy 459.74 105.41) (xy 459.74 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c95987b9-61b1-448b-ab89-7470355ef345")
 	)
 	(wire
 		(pts
@@ -5927,7 +5897,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "117b1495-0e34-4aa8-8615-214356190c63")
-		(property "Reference" "D106"
+		(property "Reference" "D91"
 			(at 450.088 136.6908 90)
 			(effects
 				(font
@@ -5990,7 +5960,7 @@
 		(instances
 			(project "pcb-40"
 				(path "/4811c7b7-222c-4bb6-b7b5-b7dd4d2eb234/02fdb854-e595-45dc-9fb2-56fe914219c3"
-					(reference "D106")
+					(reference "D91")
 					(unit 1)
 				)
 			)
@@ -7014,15 +6984,15 @@
 	)
 	(symbol
 		(lib_id "MX_Alps_Hybrid:MX-NoLED")
-		(at 455.93 106.68 0)
+		(at 455.93 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "2b4a409a-1027-438d-b1b6-a62eafbb279e")
-		(property "Reference" "MX90.1"
-			(at 456.7682 101.0158 0)
+		(property "Reference" "MX91.2"
+			(at 456.7682 122.6058 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7030,7 +7000,7 @@
 			)
 		)
 		(property "Value" "MX-NoLED"
-			(at 456.7682 102.8954 0)
+			(at 456.7682 124.4854 0)
 			(effects
 				(font
 					(size 0.508 0.508)
@@ -7038,7 +7008,7 @@
 			)
 		)
 		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
-			(at 440.055 107.315 0)
+			(at 440.055 128.905 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7047,7 +7017,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 440.055 107.315 0)
+			(at 440.055 128.905 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -7056,7 +7026,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 455.93 106.68 0)
+			(at 455.93 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7073,7 +7043,7 @@
 		(instances
 			(project "pcb-40"
 				(path "/4811c7b7-222c-4bb6-b7b5-b7dd4d2eb234/02fdb854-e595-45dc-9fb2-56fe914219c3"
-					(reference "MX90.1")
+					(reference "MX91.2")
 					(unit 1)
 				)
 			)
@@ -7208,73 +7178,6 @@
 			(project "pcb"
 				(path "/4811c7b7-222c-4bb6-b7b5-b7dd4d2eb234/02fdb854-e595-45dc-9fb2-56fe914219c3"
 					(reference "MX74")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "MX_Alps_Hybrid:MX-NoLED")
-		(at 427.99 128.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2fca6b34-d408-4d85-89f7-b7aa1ba570ec")
-		(property "Reference" "MX85.2"
-			(at 428.8282 122.6058 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "MX-NoLED"
-			(at 428.8282 124.4854 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-			)
-		)
-		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
-			(at 412.115 128.905 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 412.115 128.905 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 427.99 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dfaa389b-3ddb-456e-8d65-c0abdb1993ce")
-		)
-		(pin "2"
-			(uuid "c362ab14-b085-432d-8993-1c2bfa4a173c")
-		)
-		(instances
-			(project "pcb-40"
-				(path "/4811c7b7-222c-4bb6-b7b5-b7dd4d2eb234/02fdb854-e595-45dc-9fb2-56fe914219c3"
-					(reference "MX85.2")
 					(unit 1)
 				)
 			)
@@ -15566,7 +15469,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f5ff3c43-4cea-415e-84cf-c9e32a010ff1")
-		(property "Reference" "MX106"
+		(property "Reference" "MX91"
 			(at 450.4182 120.0658 0)
 			(effects
 				(font
@@ -15618,7 +15521,7 @@
 		(instances
 			(project "pcb-40"
 				(path "/4811c7b7-222c-4bb6-b7b5-b7dd4d2eb234/02fdb854-e595-45dc-9fb2-56fe914219c3"
-					(reference "MX106")
+					(reference "MX91")
 					(unit 1)
 				)
 			)

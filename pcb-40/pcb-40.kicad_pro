@@ -524,7 +524,7 @@
       "pos_files": "",
       "specctra_dsn": "",
       "step": "OSFRL",
-      "svg": "",
+      "svg": "svg",
       "vrml": ""
     },
     "page_layout_descr_file": ""
