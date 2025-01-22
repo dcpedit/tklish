@@ -4,9 +4,9 @@
 
 TKLish is a series of PCBS that mimic the style of a traditional TLK (Ten Key Less) keyboard.  Below are the 3 variants:
 
-* s40 - 40% layout with staggered keys
-* o40 - 40% layout with ortholinear keys
-* o80 - 80% layout with ortholinear keys
+* s40 - 40% layout with staggered keys. [KLE layouts](https://www.keyboard-layout-editor.com/#/gists/37cd11a38042b60f3afcef27ad9ed609)
+* o40 - 40% layout with ortholinear keys. [KLE layouts](https://www.keyboard-layout-editor.com/#/gists/dfc48e95a2b35d166118a279e23edf5c)
+* o80 - 80% layout with ortholinear keys. [KLE layouts](https://www.keyboard-layout-editor.com/#/gists/64b1c8ef28d2a8a90b8a3357935d477c)
 
 Features:
 
